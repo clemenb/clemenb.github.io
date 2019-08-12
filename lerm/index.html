@@ -127,8 +127,12 @@ sollicitudin risus a sollicitudin semper. </p>
 </div>
 </div>
 <section class="section my-services" data-section="section2"> </section>
-<div class="container"><div class="row"><br>
-</div></div><section class="section contact-me" data-section="section4"></section><div class="container">
+<div class="container">
+<div class="row"><br>
+</div>
+</div>
+<section class="section contact-me" data-section="section4"></section>
+<div class="container">
 <div class="section-heading">
 <h2>Contact Me</h2>
 <span>Fusce eget nibh nec justo interdum condimentum. Morbi justo ex,
@@ -202,7 +206,7 @@ Message </button> </fieldset>
       var checkSection = function checkSection() {
         $(".section").each(function() {
           var $this = $(this),
-            topEdge = $this.offset().top - 80,
+            topEdge = $this.offset().top - 00,
             bottomEdge = topEdge + $this.height(),
             wScroll = $(window).scrollTop();
           if (topEdge < wScroll && bottomEdge > wScroll) {
