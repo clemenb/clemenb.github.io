@@ -276,7 +276,7 @@ formenctype="text/plain" formtarget="_self" type="submit"> </div>
           <div class="col-md-12 col-sm-12">
             <ul class="social-icon">
               <li><a href="http://www.facebook.com/zambaworld" class="fa fa-facebook wow bounceIn"
-                  data-wow-delay="0.3s" target="_parent"></a><br>
+                  data-wow-delay="0.3s" target="_top"></a><br>
               </li>
               <li><a href="https://twitter.com/zambaworld" class="fa fa-twitter wow bounceIn"
                   data-wow-delay="0.6s"></a><br>
