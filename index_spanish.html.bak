@@ -46,13 +46,13 @@ Blaster Templatehttp://www.templatemo.com/tm-472-blaster-->
         <div class="row">
           <div class="col-md-12 col-sm-12">
             <hr> </div>
-          <span>&nbsp;<a href="index_french.html"><img src="file:///D:/Eigen/Project/Web/Github/clemenb.github.io/images/flag%20france.png"
-                alt="" title="France" longdesc="index_french.html" style="width: 27px; height: 25px;"></a>
-            &nbsp; &nbsp;&nbsp; </span><span><a href="index_german.html"><img src="file:///D:/Eigen/Project/Web/Github/clemenb.github.io/images/flag%20germany.png"
-                alt="" title="Germany" longdesc="index_germany.html" style="width: 27px; height: 27px;"></a>
-            &nbsp; &nbsp;&nbsp; </span><span><a href="index.html"><img src="file:///D:/Eigen/Project/Web/Github/clemenb.github.io/images/flag%20america.png"
+          <span>&nbsp;<a href="index_french.html"><img src="images/flag_france.png"
+                title="France" style="width: 27px; height: 25px;"></a> &nbsp;
+            &nbsp;&nbsp; </span><span><a href="index_german.html"><img src="images/flag_germany.png"
+                title="Germany" style="width: 27px; height: 27px;"></a> &nbsp;
+            &nbsp;&nbsp; </span><span><a href="index.html"><img src="images/flag_america.png"
                 title="English" style="width: 27px; height: 25px;"></a></span>
-          <h3><span class="bold">DIY in DRC with ZambaWorld<br>
+          <h3><span class="bold">Bricolaje en RDC con ZambaWorld<br>
             </span></h3>
           <h1 class="heading">Blog</h1>
           <a href="#about" class="smoothScroll btn btn-default">WHO I AM</a> </div>
@@ -92,14 +92,11 @@ Blaster Templatehttp://www.templatemo.com/tm-472-blaster-->
           </div>
           <div class="col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="0.9s">
             <h3>My Focus</h3>
-            <p><span style="color: black;">In the Democratic Republic of Congo,
-                life isn't always easy. Power surges and lack of water supply
-                are a big challenge, making life very difficult, thus pushing
-                one to be creative while researching the internet with the less
-                possible means. This is why I created ZambaWord, Zamba meaning
-                forest, where I want to show people all around the world how to
-                get around in regions where self sustaining becomes the only way
-                to live an abundant life. </span></p>
+            <p><span style="color: black;">En la República Democrática del
+                Congo, la vida no siempre es fácil. Los aumentos repentinos de
+                energía y la falta de suministro de agua son un gran desafío, lo
+                que hace que la vida sea muy difícil, lo que lo empuja a ser
+                creativo mientras busca soluciones baratas pero efectivas.</span></p>
             <span> ZambaWorld's Mobile App - Coming soon!</span>
             <div class="progress">
               <div class="progress-bar progress-bar-primary" role="progressbar"
