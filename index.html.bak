@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Elevate Bootstrap 4.0 Theme</title>
     <!--
-Elevatehttp://www.templatemo.com/tm-481-elevate
---> <!-- load stylesheets -->
+Elevatehttp://www.templatemo.com/tm-481-elevate-->
+    <!-- load stylesheets -->
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400">
     <!-- Google web font "Open Sans" -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -19,8 +19,7 @@ Elevatehttp://www.templatemo.com/tm-481-elevate
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
-          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-          <![endif]-->
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>          <![endif]-->
   </head>
   <body>
     <div class="container">
@@ -29,8 +28,8 @@ Elevatehttp://www.templatemo.com/tm-481-elevate
         <nav class="tm-main-nav">
           <ul>
             <li class="tm-nav-item"><a href="#home" class="tm-nav-item-link">Home</a></li>
-            <li class="tm-nav-item"><a href="#about" class="tm-nav-item-link">About</a></li>
-            <li class="tm-nav-item"><a href="#ideas" class="tm-nav-item-link">Ideas</a></li>
+            <li class="tm-nav-item"><a href="#about" class="tm-nav-item-link">Blog</a></li>
+            <li class="tm-nav-item"><a href="#ideas" class="tm-nav-item-link">Projects</a></li>
             <li class="tm-nav-item"><a href="#contact" class="tm-nav-item-link">Contact</a></li>
           </ul>
         </nav>
@@ -40,46 +39,51 @@ Elevatehttp://www.templatemo.com/tm-481-elevate
           <div class="tm-banner-inner">
             <h1 class="tm-banner-title">Zambaworld</h1>
             <p class="tm-banner-text">DIY in DRC with ZambaWorld</p>
+            <p class="tm-banner-text"><br>
+            </p>
           </div>
         </section>
         <section>
           <div class="tm-content-box flex-2-col">
             <div class="pad flex-item tm-team-description-container">
-              <h2 class="tm-section-title">Our Team</h2>
-              <p class="tm-section-description">Lorem ipsum dolor sit amet,
-                consectetur adipiscing elit. Quisque vel nisi pharetra nibh
-                varius pharetra ac sagittis nisi. Etiam pharetra vestibulum
-                hendrerit.</p>
-              <p class="tm-section-description">Donec ex libero, fringilla vitae
-                purus sit amet, rhoncus pharetra lorem. Pellentesque id sem id
-                lacus ultricies vehicula. Aliquam rutrum mi non.</p>
+              <h2 class="tm-section-title">Blog</h2>
+              <h5> <span style="color: black;">In the Democratic Republic of
+                  Congo, life isn't always easy. Power surges and lack of water
+                  supply are a big challenge, making life very difficult, thus
+                  pushing one to be creative while researching for cheap but
+                  effective solutions. This is why I created ZambaWord, Zamba
+                  meaning forest, where I want to show people all around the
+                  world how to get around in regions where self sustaining
+                  becomes the only way to live an abundant life. </span></h5>
             </div>
-            <div class="flex-item"> <img src="img/about.jpg" alt=""> </div>
+            <div class="flex-item"> <img src="img/about.png" alt="" style="width: 304px; height: 294px;">
+            </div>
           </div>
           <div id="about" class="tm-content-box">
             <ul class="boxes gallery-container">
               <li class="box box-bg">
-                <h2 class="tm-section-title tm-section-title-box tm-box-bg-title">Creative</h2>
+                <h2 class="tm-section-title tm-section-title-box tm-box-bg-title">3D</h2>
                 <img src="img/white-bg.jpg" alt="Image" class="img-fluid"> </li>
-              <li class="box"> <a href="img/idea-large-01.jpg"><img src="img/idea-01.jpg"
+              <li class="box"> <a href="img/bulb.png"><img src="img/bulb_s.png"
                     alt="Image" class="img-fluid"></a> </li>
               <li class="box box-bg">
-                <h2 class="tm-section-title tm-section-title-box tm-box-bg-title">Develop</h2>
+                <h2 class="tm-section-title tm-section-title-box tm-box-bg-title">Web</h2>
                 <img src="img/white-bg.jpg" alt="Image" class="img-fluid"> </li>
               <li class="box"> <a href="img/idea-large-02.jpg"><img src="img/idea-02.jpg"
                     alt="Image" class="img-fluid"></a> </li>
               <li class="box box-bg">
-                <h2 class="tm-section-title tm-section-title-box tm-box-bg-title">Design</h2>
+                <h2 class="tm-section-title tm-section-title-box tm-box-bg-title">YouTube<br>
+                  Channel</h2>
                 <img src="img/white-bg.jpg" alt="Image" class="img-fluid"> </li>
               <li class="box"> <a href="img/idea-large-03.jpg"><img src="img/idea-03.jpg"
                     alt="Image" class="img-fluid"></a> </li>
               <li class="box box-bg">
-                <h2 class="tm-section-title tm-section-title-box tm-box-bg-title">Support</h2>
+                <h2 class="tm-section-title tm-section-title-box tm-box-bg-title">Facebook</h2>
                 <img src="img/white-bg.jpg" alt="Image" class="img-fluid"> </li>
               <li class="box"> <a href="img/idea-large-04.jpg"><img src="img/idea-04.jpg"
                     alt="Image" class="img-fluid"></a> </li>
               <li class="box box-bg">
-                <h2 class="tm-section-title tm-section-title-box tm-box-bg-title">Think</h2>
+                <h2 class="tm-section-title tm-section-title-box tm-box-bg-title">Ideas</h2>
                 <img src="img/white-bg.jpg" alt="Image" class="img-fluid"> </li>
             </ul>
           </div>
@@ -99,35 +103,32 @@ Elevatehttp://www.templatemo.com/tm-481-elevate
               <div class="carousel-item active">
                 <div class="carousel-content">
                   <div class="flex-item">
-                    <h2 class="tm-section-title">Our Ideas</h2>
-                    <p class="tm-section-description carousel-description">Suspendisse
-                      fermentum auctor turpis quis volutpat. Ut sed nibh non
-                      purus porta lacinia. Donec et euismod elit. Aenean vitae
-                      quam leo. Pellentesque interdum metus sed massa rutrum.</p>
+                    <h2 class="tm-section-title">3D Graphics</h2>
+                    <p class="tm-section-description carousel-description">I'm a
+                      Computer Graphics artist. I do 3D modeling, texturing,
+                      lightning and rendering. </p>
                   </div>
                 </div>
               </div>
               <div class="carousel-item">
                 <div class="carousel-content">
                   <div class="flex-item">
-                    <h2 class="tm-section-title">Our Clients</h2>
-                    <p class="tm-section-description carousel-description">Lorem
-                      ipsum dolor sit amet, consectetur adipiscing elit. Quisque
-                      vel nisi pharetra nibh varius pharetra ac sagittis nisi.
-                      Etiam pharetra vestibulum hendrerit. Pellentesque interdum
-                      metus sed massa rutrum.</p>
+                    <h2 class="tm-section-title">Web</h2>
+                    <p class="tm-section-description carousel-description">I do
+                      web design, so feel free to contact me for questions
+                      regarding your internet presence. </p>
                   </div>
                 </div>
               </div>
               <div class="carousel-item">
                 <div class="carousel-content">
                   <div class="flex-item">
-                    <h2 class="tm-section-title">Our Projects</h2>
-                    <p class="tm-section-description carousel-description">Donec
-                      ex libero, fringilla vitae purus sit amet, rhoncus
-                      pharetra lorem. Pellentesque id sem id lacus ultricies
-                      vehicula. Aliquam rutrum mi non. Pellentesque interdum
-                      metus sed massa rutrum.</p>
+                    <h2 class="tm-section-title">YouTube</h2>
+                    <p class="tm-section-description carousel-description">O
+                      yes, I'm a YouTuber now. Just like everyone else, I feel
+                      like sharing my knowledge and experiences with the rest of
+                      the world. Hope you like my stuff. I'd love to read your
+                      critics, so please feel free :)</p>
                   </div>
                 </div>
               </div>
@@ -137,7 +138,7 @@ Elevatehttp://www.templatemo.com/tm-481-elevate
         <section class="tm-content-box"> <img src="img/contact.jpg" alt="Contact image"
             class="img-fluid">
           <div id="contact" class="pad">
-            <h2 class="tm-section-title">Contact Us</h2>
+            <h2 class="tm-section-title">Contact Me</h2>
             <form action="#contact" method="get" class="contact-form">
               <div class="form-group col-xs-12 col-sm-12 col-md-6 col-lg-6 form-group-2-col-left">
                 <input id="contact_name" name="contact_name" class="form-control"
@@ -155,7 +156,7 @@ class="form-control" rows="9" placeholder="Message" required=""></textarea> </di
           </div>
         </section>
         <footer class="tm-footer">
-          <p class="text-xs-center">Copyright © 2016 Company Name</p>
+          <p class="text-xs-center">Copyright © 2019 ZambaWorld.com</p>
         </footer>
       </div>
     </div>
