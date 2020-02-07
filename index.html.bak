@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Elevate Bootstrap 4.0 Theme</title>
+    <title>ZambaWorld</title>
     <!--
 Elevatehttp://www.templatemo.com/tm-481-elevate-->
     <!-- load stylesheets -->
@@ -23,13 +23,12 @@ Elevatehttp://www.templatemo.com/tm-481-elevate-->
   </head>
   <body>
     <div class="container">
-      <div class="tm-sidebar"> <img src="img/menu-top.jpg" alt="Menu top image"
-          class="img-fluid tm-sidebar-image">
+      <div class="tm-sidebar"> <img src="img/bulb.png" alt="Menu top image" class="img-fluid tm-sidebar-image">
         <nav class="tm-main-nav">
           <ul>
             <li class="tm-nav-item"><a href="#home" class="tm-nav-item-link">Home</a></li>
-            <li class="tm-nav-item"><a href="#about" class="tm-nav-item-link">Blog</a></li>
-            <li class="tm-nav-item"><a href="#ideas" class="tm-nav-item-link">Projects</a></li>
+            <li class="tm-nav-item"><a href="#about" class="tm-nav-item-link">Projects</a></li>
+            <li class="tm-nav-item"><a href="#ideas" class="tm-nav-item-link">About</a></li>
             <li class="tm-nav-item"><a href="#contact" class="tm-nav-item-link">Contact</a></li>
           </ul>
         </nav>
@@ -46,15 +45,15 @@ Elevatehttp://www.templatemo.com/tm-481-elevate-->
         <section>
           <div class="tm-content-box flex-2-col">
             <div class="pad flex-item tm-team-description-container">
-              <h2 class="tm-section-title">Blog</h2>
-              <h5> <span style="color: black;">In the Democratic Republic of
+              <h2 class="tm-section-title">Welcome</h2>
+              <h4> <span style="color: black;">In the Democratic Republic of
                   Congo, life isn't always easy. Power surges and lack of water
                   supply are a big challenge, making life very difficult, thus
                   pushing one to be creative while researching for cheap but
                   effective solutions. This is why I created ZambaWord, Zamba
                   meaning forest, where I want to show people all around the
                   world how to get around in regions where self sustaining
-                  becomes the only way to live an abundant life. </span></h5>
+                  becomes the only way to live an abundant life. </span></h4>
             </div>
             <div class="flex-item"> <img src="img/about.png" alt="" style="width: 304px; height: 294px;">
             </div>
@@ -64,23 +63,30 @@ Elevatehttp://www.templatemo.com/tm-481-elevate-->
               <li class="box box-bg">
                 <h2 class="tm-section-title tm-section-title-box tm-box-bg-title">3D</h2>
                 <img src="img/white-bg.jpg" alt="Image" class="img-fluid"> </li>
-              <li class="box"> <a href="img/bulb.png"><img src="img/bulb_s.png"
+              <li class="box"> <a href="idea-large-01.jpg"><img src="img/idea-01.jpg"
+
                     alt="Image" class="img-fluid"></a> </li>
               <li class="box box-bg">
                 <h2 class="tm-section-title tm-section-title-box tm-box-bg-title">Web</h2>
                 <img src="img/white-bg.jpg" alt="Image" class="img-fluid"> </li>
-              <li class="box"> <a href="img/idea-large-02.jpg"><img src="img/idea-02.jpg"
+              <li class="box"> <a href="img/idea-large-02.jpg"><img src="img/idea-02.jpg"
+
                     alt="Image" class="img-fluid"></a> </li>
               <li class="box box-bg">
-                <h2 class="tm-section-title tm-section-title-box tm-box-bg-title">YouTube<br>
+                <h2 class="tm-section-title tm-section-title-box tm-box-bg-title"
+
+                  style="text-align: center;">MY<br>
+                  YouTube<br>
                   Channel</h2>
                 <img src="img/white-bg.jpg" alt="Image" class="img-fluid"> </li>
-              <li class="box"> <a href="img/idea-large-03.jpg"><img src="img/idea-03.jpg"
+              <li class="box"> <a href="img/idea-large-03.jpg"><img src="img/idea-03.jpg"
+
                     alt="Image" class="img-fluid"></a> </li>
               <li class="box box-bg">
                 <h2 class="tm-section-title tm-section-title-box tm-box-bg-title">Facebook</h2>
                 <img src="img/white-bg.jpg" alt="Image" class="img-fluid"> </li>
-              <li class="box"> <a href="img/idea-large-04.jpg"><img src="img/idea-04.jpg"
+              <li class="box"> <a href="img/idea-large-04.jpg"><img src="img/idea-04.jpg"
+
                     alt="Image" class="img-fluid"></a> </li>
               <li class="box box-bg">
                 <h2 class="tm-section-title tm-section-title-box tm-box-bg-title">Ideas</h2>
@@ -135,21 +141,26 @@ Elevatehttp://www.templatemo.com/tm-481-elevate-->
             </div>
           </div>
         </section>
-        <section class="tm-content-box"> <img src="img/contact.jpg" alt="Contact image"
+        <section class="tm-content-box"> <img src="img/contact.png" alt="Contact image"
+
             class="img-fluid">
           <div id="contact" class="pad">
             <h2 class="tm-section-title">Contact Me</h2>
             <form action="#contact" method="get" class="contact-form">
               <div class="form-group col-xs-12 col-sm-12 col-md-6 col-lg-6 form-group-2-col-left">
-                <input id="contact_name" name="contact_name" class="form-control"
+                <input id="contact_name" name="contact_name" class="form-control"
+
                   placeholder="Name" required="" type="text"> </div>
               <div class="form-group col-xs-12 col-sm-12 col-md-6 col-lg-6 form-group-2-col-right">
-                <input id="contact_email" name="contact_email" class="form-control"
+                <input id="contact_email" name="contact_email" class="form-control"
+
                   placeholder="Email" required="" type="email"> </div>
-              <div class="form-group"> <input id="contact_subject" name="contact_subject"
+              <div class="form-group"> <input id="contact_subject" name="contact_subject"
+
                   class="form-control" placeholder="Subject" required="" type="text">
               </div>
-              <div class="form-group"> <textarea id="contact_message" name="contact_message"
+              <div class="form-group"> <textarea id="contact_message" name="contact_message"
+
 class="form-control" rows="9" placeholder="Message" required=""></textarea> </div>
               <button type="submit" class="btn btn-primary submit-btn">Submit</button>
             </form>
