@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>Voting Page</title>
-    <script type="text/javascript" src="js/jquery-1.9.0.min.js"></script>
-    <script type="text/javascript">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Voting Page</title>
+<script type="text/javascript" src="js/jquery-1.9.0.min.js"></script>
+<script type="text/javascript">
 $(document).ready(function() {
 	
 	//####### on page load, retrive votes for each content
@@ -85,7 +85,7 @@ $(document).ready(function() {
 
 
 </script>
-    <style type="text/css">
+<style type="text/css">
 <!--
 .content_wrapper{width:500px;margin-right:auto;margin-left:auto;}
 h3{color: #979797;border-bottom: 1px dotted #DDD;font-family: "Trebuchet MS";}
@@ -101,56 +101,54 @@ h3{color: #979797;border-bottom: 1px dotted #DDD;font-family: "Trebuchet MS";}
 
 -->
 </style>
-  </head>
-  <body>
-    <div class="content_wrapper">
-      <h3>Les écoles segondaires -catégorie batiments sanitaires</h3>
-      <h3>Motema Pembe
+</head>
+
+<body>
+<div class="content_wrapper">
+    <h3>My Content Topic
         <!-- voting markup -->
         <div class="voting_wrapper" id="1001">
-          <div class="voting_btn">
-            <div class="up_button">&nbsp;</div>
-            <span class="up_votes">0</span> </div>
-          <div class="voting_btn">
-            <div class="down_button">&nbsp;</div>
-            <span class="down_votes">0</span> </div>
+            <div class="voting_btn">
+                <div class="up_button">&nbsp;</div><span class="up_votes">0</span>
+            </div>
+            <div class="voting_btn">
+                <div class="down_button">&nbsp;</div><span class="down_votes">0</span>
+            </div>
         </div>
-        <!-- voting markup end --> </h3>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel leo
-      mauris, eget congue augue. Nulla luctus elit et ante blandit non eleifend
-      massa auctor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Etiam quis quam at nunc egestas consequat. Donec pretium enim magna, eget
-      egestas enim.
-      <h3>Sacré Coeur
+        <!-- voting markup end -->
+    </h3>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel leo mauris, eget congue augue. Nulla luctus elit et ante blandit non eleifend massa auctor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis quam at nunc egestas consequat. Donec pretium enim magna, eget egestas enim. 
+    
+    
+    <h3>My Content Topic 2
         <!-- voting markup -->
         <div class="voting_wrapper" id="1002">
-          <div class="voting_btn">
-            <div class="up_button">&nbsp;</div>
-            <span class="up_votes">0</span> </div>
-          <div class="voting_btn">
-            <div class="down_button">&nbsp;</div>
-            <span class="down_votes">0</span> </div>
+            <div class="voting_btn">
+                <div class="up_button">&nbsp;</div><span class="up_votes">0</span>
+            </div>
+            <div class="voting_btn">
+                <div class="down_button">&nbsp;</div><span class="down_votes">0</span>
+            </div>
         </div>
-        <!-- voting markup end --> </h3>
-      Praesent fermentum erat mauris, a rutrum eros. Curabitur pellentesque
-      vulputate sapien. In tincidunt est vitae leo rutrum lacinia. Cras id lorem
-      sem, non adipiscing leo. Duis lobortis egestas pellentesque. In blandit
-      tortor at lectus sodales tempor.
-      <h3>Lupio
+        <!-- voting markup end -->
+    </h3>
+    Praesent fermentum erat mauris, a rutrum eros. Curabitur pellentesque vulputate sapien. In tincidunt est vitae leo rutrum lacinia. Cras id lorem sem, non adipiscing leo. Duis lobortis egestas pellentesque. In blandit tortor at lectus sodales tempor.
+
+    <h3>My Content Topic 2
         <!-- voting markup -->
         <div class="voting_wrapper" id="1003">
-          <div class="voting_btn">
-            <div class="up_button">&nbsp;</div>
-            <span class="up_votes">0</span> </div>
-          <div class="voting_btn">
-            <div class="down_button">&nbsp;</div>
-            <span class="down_votes">0</span> </div>
+            <div class="voting_btn">
+                <div class="up_button">&nbsp;</div><span class="up_votes">0</span>
+            </div>
+            <div class="voting_btn">
+                <div class="down_button">&nbsp;</div><span class="down_votes">0</span>
+            </div>
         </div>
-        <!-- voting markup end --> </h3>
-      Praesent fermentum erat mauris, a rutrum eros. Curabitur pellentesque
-      vulputate sapien. In tincidunt est vitae leo rutrum lacinia. Cras id lorem
-      sem, non adipiscing leo. Duis lobortis egestas pellentesque. In blandit
-      tortor at lectus sodales tempor.
-    </div>
-  </body>
+        <!-- voting markup end -->
+    </h3>
+    Praesent fermentum erat mauris, a rutrum eros. Curabitur pellentesque vulputate sapien. In tincidunt est vitae leo rutrum lacinia. Cras id lorem sem, non adipiscing leo. Duis lobortis egestas pellentesque. In blandit tortor at lectus sodales tempor.
+
+</div>
+
+</body>
 </html>
