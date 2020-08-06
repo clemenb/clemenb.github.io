@@ -1,6 +1,6 @@
 <?php if($_POST["message"]) {
-    mail("info@vosmeilleurs.com", "Notify Me!", $_POST["message"], "From: an@email.address");}
-?>
+    mail("info@vosmeilleurs.com", "Notify Me!", $_POST["message"], "From: an@email.address");}?>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -48,9 +48,6 @@
                 <div class="input-group-append"> <button class="btn btn-secondary"
 
                     type="button">Notify Me!</button> </div>
-                <form method="post" action="index.php"> <textarea name="message"></textarea>
-                  <input type="submit">
-                </form>
               </div>
             </div>
           </div>
@@ -80,5 +77,6 @@
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <!-- Custom scripts for this template -->
     <script src="js/coming-soon.min.js"></script>
+    
   </body>
 </html>
