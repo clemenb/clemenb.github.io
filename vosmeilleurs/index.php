@@ -1,5 +1,5 @@
 <?php if($_POST["message"]) {
-    mail("info@vosmeilleurs.com", "Notify Me!", $_POST["message"], "From: an@email.address");}?>
+    mail("info@vosmeilleurs.com", "Submit Query", $_POST["message"], "From: an@email.address");}?>
 <!DOCTYPE html><html lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
