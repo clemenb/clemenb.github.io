@@ -1,8 +1,3 @@
-<?php
-if($_POST["message"]) {
-    mail("info@vowmeilleurs.com", "Register me", $_POST["message"], "From: an@email.address");
-}
-?>
 <!DOCTYPE html><html lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -42,11 +37,6 @@ if($_POST["message"]) {
                 développement de ce site. Notre date de lancement est <b>septembre
                   2020</b>! Inscrivez-vous aux mises à jour en utilisant le
                 formulaire ci-dessous!</p>
-              
-              <form method="post" action="index.php">
-                <textarea name="message"></textarea>
-                <input type="submit"></form>
-
               <div class="input-group input-group-newsletter"> <input class="form-control"
 
                   placeholder="Enter email..." aria-label="Enter email..." aria-describedby="basic-addon"
@@ -84,5 +74,6 @@ if($_POST["message"]) {
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <!-- Custom scripts for this template -->
     <script src="js/coming-soon.min.js"></script>
+    
   </body>
 </html>
