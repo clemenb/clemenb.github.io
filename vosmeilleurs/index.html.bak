@@ -1,4 +1,5 @@
-<!DOCTYPE html><html lang="en">
+<!DOCTYPE html>
+<html lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -18,10 +19,11 @@
     <!-- Custom styles for this template -->
     <link href="css/coming-soon.min.css" rel="stylesheet">
   </head>
-  <body> <textarea name="Welcome text">loading...</textarea> <video playsinline="playsinline"
+  <body> <textarea name="Welcome text">loading...</textarea> <video
 
-      autoplay="autoplay" muted="muted" loop="loop"> <source src="mp4/bg.mp4" type="video/mp4">
-    </video>
+      playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop"> <source
+
+        src="mp4/bg.mp4" type="video/mp4"> </video>
     <div class="masthead">
       <div class="masthead-bg"></div>
       <div class="container h-100">
@@ -38,12 +40,9 @@
                   2020</b>! Inscrivez-vous aux mises à jour en utilisant le
                 formulaire ci-dessous!</p>
               <div class="input-group input-group-newsletter"> <input class="form-control"
-
                   placeholder="Enter email..." aria-label="Enter email..." aria-describedby="basic-addon"
-
                   type="email">
                 <div class="input-group-append"> <button class="btn btn-secondary"
-
                     type="button">Notify Me!</button> </div>
               </div>
             </div>
@@ -74,6 +73,5 @@
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <!-- Custom scripts for this template -->
     <script src="js/coming-soon.min.js"></script>
-    
   </body>
 </html>
