@@ -40,7 +40,7 @@
                   type="email">
                 <div class="input-group-append"> <button class="btn btn-secondary"
                     type="submit" formtarget="mailto:info@vosmeilleurs.com" formmethod="post"
-                    formenctype="text/plain">Notify Me!</button> </div>
+                    formenctype="multipart/form-data">Notify Me!</button> </div>
               </div>
             </div>
           </div>
