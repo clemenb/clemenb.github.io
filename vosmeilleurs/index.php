@@ -1,7 +1,6 @@
 <?php if($_POST["message"]) {
     mail("info@vosmeilleurs.com", "Notify Me!", $_POST["message"], "From: an@email.address");}?>
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html><html lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -21,16 +20,19 @@
     <!-- Custom styles for this template -->
     <link href="css/coming-soon.min.css" rel="stylesheet">
   </head>
-  <body> <textarea name="Welcome text">loading...</textarea> <video playsinline="playsinline"
+  <body> <textarea name="Welcome text">loading...</textarea> <video
 
-      autoplay="autoplay" muted="muted" loop="loop"> <source src="mp4/bg.mp4" type="video/mp4">
-    </video>
+      playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop"> <source
+
+        src="mp4/bg.mp4" type="video/mp4"> </video>
     <div class="masthead">
       <div class="masthead-bg"></div>
       <div class="container h-100">
         <div class="row h-100">
           <div class="col-12 my-auto">
             <div class="masthead-content text-white py-5 py-md-0">
+              <form method="post" action="index.php"> <textarea name="message"></textarea>
+                  <input type="submit"> </form>
               <h1 class="mb-3"><b>VosMeilleurs.com</b></h1>
               <h1 class="mb-3">coming soon!</h1>
               <p class="mb-5">We're working hard to finish the development of
@@ -48,8 +50,6 @@
                 <div class="input-group-append"> <button class="btn btn-secondary"
 
                     type="button">Notify Me!</button> </div>
-                <form method="post" action="index.php"> <textarea name="message"></textarea>
-                  <input type="submit"> </form>
               </div>
             </div>
           </div>
