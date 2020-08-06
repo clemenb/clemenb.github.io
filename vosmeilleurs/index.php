@@ -1,7 +1,5 @@
-<?php
-if($_POST["message"]) {
-    mail("info@vosmeilleurs.com", "Form to email message", $_POST["message"], "From: an@email.address");
-}
+<?php if($_POST["message"]) {
+    mail("info@vosmeilleurs.com", "Notify Me!", $_POST["message"], "From: an@email.address");}
 ?>
 <html lang="en">
   <head>
@@ -42,20 +40,17 @@ if($_POST["message"]) {
                 développement de ce site. Notre date de lancement est <b>septembre
                   2020</b>! Inscrivez-vous aux mises à jour en utilisant le
                 formulaire ci-dessous!</p>
-              <div class="input-group input-group-newsletter"> <input
+              <div class="input-group input-group-newsletter"> <input class="form-control"
 
-                  class="form-control" placeholder="Enter email..." aria-label="Enter email..."
+                  placeholder="Enter email..." aria-label="Enter email..." aria-describedby="basic-addon"
 
-                  aria-describedby="basic-addon" type="email">
+                  type="email">
                 <div class="input-group-append"> <button class="btn btn-secondary"
 
                     type="button">Notify Me!</button> </div>
-                
-<form method="post" action="index.php">
-    <textarea name="message"></textarea>
-    <input type="submit">
-</form>
-
+                <form method="post" action="index.php"> <textarea name="message"></textarea>
+                  <input type="submit">
+                </form>
               </div>
             </div>
           </div>
