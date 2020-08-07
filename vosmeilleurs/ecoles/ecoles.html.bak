@@ -3,7 +3,7 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><![endif]-->
-    <title>Tamarillo HTML5 Template</title>
+    <title>vosMeilleurs</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <!-- 
@@ -27,7 +27,7 @@ Tamarillo Templatehttp://www.templatemo.com/tm-399-tamarillo-->
     <header>
       <div class="container">
         <div class="row">
-          <div class="col-md-5 col-md-push-1 col-sm-6"> <a href="#" id="templatemo_logo"><img
+          <div class="col-md-5 col-md-push-1 col-sm-6"> <a href="#" id="#"><img
 
                 src="images/Logo%20nosMeilleurs%20black%20mini.png" alt="tamarillo"></a>
           </div>
@@ -38,11 +38,6 @@ Tamarillo Templatehttp://www.templatemo.com/tm-399-tamarillo-->
           <div class="col-xs-24 visible-xs" id="mobile_menu_list">
             <ul>
               <li><a href="#templatemo_slideshow">Home</a></li>
-              <li><a href="#templatemo_about">About</a></li>
-              <li><a href="#templatemo_services">Services</a></li>
-              <li><a href="#templatemo_blog">Blog</a></li>
-              <li><a href="#templatemo_gallery">Gallery</a></li>
-              <li><a href="#templatemo_contact">Contact</a></li>
             </ul>
           </div>
           <div class="col-md-16 col-sm-18 hidden-xs" id="templatemo-nav-bar">
@@ -110,11 +105,13 @@ Tamarillo Templatehttp://www.templatemo.com/tm-399-tamarillo-->
       <div class="container">
         <div class="row">
           <h1 style="text-align: left;">Nos écoles</h1>
+          <script type="text/javascript">
+rating_id = 'product_1';
+</script> <script type="text/javascript" src="/ratings/tnt_ratings.js"></script>
         </div>
         <table style="width: 613px; height: 4214px;" border="1">
           <tbody>
             <tr>
-              
               <td>
                 <table style="width: 602px; height: 4082px;" cellspacing="0" cellpadding="0"
 
@@ -133,6 +130,9 @@ Tamarillo Templatehttp://www.templatemo.com/tm-399-tamarillo-->
                     </tr>
                     <tr style="height:15.0pt" height="20">
                       <td style="height:15.0pt" height="20">C.S. AFRIKA/A</td>
+                      <script type="text/javascript">rating_id = 'C.S. AFRIKA/A';
+                      </script>
+                      <script type="text/javascript" src="/ratings/tnt_ratings.js"></script>
                       <td><br>
                       </td>
                       <td><br>
