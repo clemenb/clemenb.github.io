@@ -27,11 +27,13 @@ Tamarillo Templatehttp://www.templatemo.com/tm-399-tamarillo-->
     <header>
       <div class="container">
         <div class="row">
-          <div class="col-md-5 col-md-push-1 col-sm-6"> <a href="#" id="templatemo_logo"><img
+          <div class="col-md-5 col-md-push-1 col-sm-6"> <a href="#" id="templatemo_logo"><img
+
                 src="images/Logo%20nosMeilleurs%20black%20mini.png" alt="tamarillo"></a>
           </div>
           <div class="col-md-3 hidden-xs"></div>
-          <div class="col-xs-3 col-xs-offset-20 visible-xs"> <a href="#" id="mobile_menu"><span
+          <div class="col-xs-3 col-xs-offset-20 visible-xs"> <a href="#" id="mobile_menu"><span
+
                 class="glyphicon glyphicon-align-justify"></span></a> </div>
           <div class="col-xs-24 visible-xs" id="mobile_menu_list">
             <ul>
@@ -107,33 +109,1510 @@ Tamarillo Templatehttp://www.templatemo.com/tm-399-tamarillo-->
     <section id="templatemo_about">
       <div class="container">
         <div class="row">
-          <h1>Nos écoles</h1>
+          <h1 style="text-align: left;">Nos écoles</h1>
         </div>
-        <div class="row">
-          <div class="col-md-1"></div>
-          <div class="col-md-5 col-sm-7 col-xs-24"> <br>
-          </div>
-          <div class="col-md-1"></div>
-          <div class="col-md-16"> </div>
-          <!-- end of row -->
-          <div class="clear"></div>
-          <div class="row">
-            <div class="col-md-1"></div>
-            <div class="col-md-5 col-sm-7 col-xs-24"> <br>
-            </div>
-            <div class="col-md-1"></div>
-            <div class="col-md-16"> </div>
-            <!-- end of row -->
-            <div class="clear"></div>
-            <div class="row">
-              <div class="col-md-1"></div>
-              <div class="col-md-5 col-sm-7 col-xs-24"> <br>
-              </div>
-              <div class="col-md-1"></div>
-              <div class="col-md-16"> </div>
-              <!-- end of row --> </div>
-          </div>
-        </div>
+        <table style="width: 613px; height: 4214px;" border="1">
+          <tbody>
+            <tr>
+              <td>
+                <table style="width: 602px; height: 4082px;" cellspacing="0" cellpadding="0"
+
+                  border="0">
+                  <colgroup><col style="mso-width-source:userset;mso-width-alt:12397;width:254pt"
+
+                      width="339"> <col style="mso-width-source:userset;mso-width-alt:2486;width:51pt"
+
+                      width="68"> <col style="width:48pt" width="64"> </colgroup>
+                  <tbody>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt;width:254pt" height="20" width="339"><br>
+                      </td>
+                      <td style="width:100pt" width="68">Sanitaires</td>
+                      <td style="width:100pt" width="64">Cantines</td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. AFRIKA/A</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. AFRIKA/B</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. BAKONA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. BANA MWINDA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. BANDEKO</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. BANKOY</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. BKT</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. CARDINAL MALULA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. CARDINAL MALULA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. CHRIST-ROI</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. DIABENA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. DIALUNGANA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. DIBASANA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. DON ALBERIONE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. ELIMU 1</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. EL-JIREH</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. GAI SAVOIR</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. GEORGES MUKE 1</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. HIYUTE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. LA JOIE DE
+                        L'ETERNEL</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. LA PERSEVERANCE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. LA PROVIDENCE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. LES BATISSEURS</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. LES ECLAIRS</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. LES GEDEONS</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. LUNGUNGU</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. LYS DE LA
+                        VALLEE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. MAMA PEMBA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. MAMAN NSONGO</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. MAMAN PEMBA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. MAXEL</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. M'FAMIAL</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. M'FAMIAL 1</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. MOKE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. MONANO 1</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. MOYO</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. MUNDINGU 2</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. MWINDA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. NDAKISA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. NEPOKO</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. NOTRE DAME DE
+                        COVADONGA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. NOTRE DAME DE
+                        COVANDONGA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. NOTRE DAME DU
+                        SACRE CîUR</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. NOTRE DAME DU
+                        SACRE-CŒUR</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. PAIN DU CIEL</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. PAMUKE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. PERSEVERANCE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. PROVIDENCE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. REHOBOTH</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. REVEILLEZ-VOUS</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. SAINT ADRIEN</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. SAINT BERNARD</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. SAINT CHARLES</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. SAINT GEORGES</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. SAINT LAMBERT</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. SAINT LEON</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. SIGNES ET
+                        PRODIGES</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. UNIVERS :
+                        Littéraire</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">C.S. WEMBO</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE BOYOKANI</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">Collège Cartésien</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE DE LA
+                        NATIVITE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE DE LA
+                        RESURECTION</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE DE LA
+                        RESURRECTION</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE FR EMMANUEL
+                        STABLUM</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE GEORGES MUKE
+                        1</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE GERHARD
+                        SIGID GROLL</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE IMMACULEE
+                        CONCEPTION</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE JEPHTE 1er</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE LA
+                        FRANCOPHONE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE LA LUMIERE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE LA NATIVITE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE LA
+                        PROSPERITE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE LA
+                        PROSPERITE 2</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE L'AVENIR</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">Collège le Disciple</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE LE
+                        PEPOLOGIEN</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE LES AMIS DU
+                        SAVOIR</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE LES
+                        DISCIPLES</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE MATANDA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE MURA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE N.D
+                        D'AFRIQUE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE NOTRE DAME
+                        D'AFRIQUE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE OKAPI</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE PASTEUR
+                        MWEPU DIPU</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE PERE DANIEL
+                        BROTTIER</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE PERE
+                        DETIENNE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE PERE ELESSE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE PIERRE
+                        NENGENDE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE SAINT
+                        ALPHONSE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE SAINT
+                        ALPHONSE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE SAINT AMAND</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE SAINT ANDRE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE SAINT
+                        ETIENNE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE SAINT
+                        FRANCOIS DE SALE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE SAINT
+                        LAURENT</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE SAINT MARC</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE SAINT MARCO</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE SAINT MONT
+                        FORT</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE SAINT
+                        RAPHAEL</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE SAINT
+                        RAPHAEL</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE SAINT
+                        THEOPHILE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE SAINT
+                        THEOPHILE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE SAINTE
+                        TRINITE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE SIMON
+                        KIMBANGU</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE SîUR LUEMBA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COLLEGE YVES MARCEL</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COMPLEXE SAINT FELIX</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">COMPLEXE SCOLAIRE
+                        SAINT LUC</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">CS Cardinal
+                        Monsengwo</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">CTRE FEMININ MARIE
+                        ANTOINETTE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">E. CHRETIENNE J'AIME
+                        LES PETIT</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">ECAM "ECAM"</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">ECAMO</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">ECOLE ANUARITE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">ECOLE BEREE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">ECOLE
+                        FRANCO-ANGLAISE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">ECOLE J'AIME LES
+                        PETITS commerciale administrative</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">ECOLE LUSAY</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">ECOLE MASAMBA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">ECOLE
+                        PROFESSIONNELLE BATIMENT</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">G.S Aurore</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">G.S. ACADEMIA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">G.S. ENODI</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">G.S. LA MAINTENANCE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">G.S. MONT AMBA 3</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">G.S. SAINT FREDERIC</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">G.S. Saint-Marc</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">I.T.A. MOMBELE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">I.T.C KAMO</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">I.T.C. DE LEMBA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">I.T.C. LOBIKO</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">I.T.C. NLEMBAMI</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">I.T.C.E DE LIMETE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">I.T.I. DIZOLELE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">I.T.I. KITOMESA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">I.T.P. KISENSO</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT 1 BILENGE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT 1 LUMUMBA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT 1 SALONGO</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT 2 KISENSO</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT 2 LUMUMBA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT 2 SANZA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT 4 LEMBA SUD</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT BAKIDI</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT BATENDE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT BIKANGA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT BILENGE 4</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT BIO-CHIMIE
+                        DE MOMBELE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT BULAMBEMBA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT CARMEN
+                        SALLES</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT DE KINGABWA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT DE LA
+                        RIVIERE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT DE MATETE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT DIANGIENDA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT DIANGIENDA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT GOMBELE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT INTO</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT LA RIVIERE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT LITTERAIRE
+                        MOKENGELI</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT LUBUDI 1</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT MABWIDI</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT MADRANDELE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT MAINDOMBE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT MAMA BUKA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT MAMA MWILU</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT MANGOMA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT MATONDO</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT MBOTAMA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT METHODISTE
+                        EBENGA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT MGR MAYUNDA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT MGR NTEDIKA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT MONGO</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT MONT AMBA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT MPUTU</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT MUKOKO</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT MUKONDA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT NDOMBE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT PASTEUR
+                        BAMWENGA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT PEDA.
+                        MOKENGELI</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT
+                        PRESBYTERIEN ANUNGA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT REVEREND
+                        BANGI</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT RVD. NZUNGA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT SAINT
+                        KIZITO</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT SAINTE
+                        BERNADETTE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT SALAZAKU</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT TECHN.
+                        &amp; COMM. KAMO</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">INSTITUT TOLINGANA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">ISCOM KISENSO</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">ITC BAHUMBU</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">ITI KITOMESA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">LYCEE CARNOT</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">LYCEE DE LIMETE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">LYCEE GERAD NKWILI</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">LYCEE GERARD NKWILI</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">LYCEE JULIE BILLIART</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">LYCEE MAMA DIANKEBA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">LYCEE MAMAN DIANKEBA</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">LYCEE MOLENDE</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">LYCEE MPIKO</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">LYCEE ROYAL</td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                    <tr style="height:15.0pt" height="20">
+                      <td style="height:15.0pt" height="20">LYCEE TECHN. &amp;
+                        SCIENT. DE LIMETE<span style="mso-spacerun:yes">&nbsp;</span></td>
+                      <td><br>
+                      </td>
+                      <td><br>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+              <td><br>
+              </td>
+              <td><br>
+              </td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </section>
     <!-- end of templatemo_about -->
