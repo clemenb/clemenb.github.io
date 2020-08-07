@@ -12,6 +12,8 @@
     <!-- Header -->
     <div id="header">
       <h1> <span class="far fa-thumbs-up"></span> </h1>
+      <img src="ecoles/images/Logo%20nosMeilleurs%20white%20small.png" alt="nosMeilleurs"
+        title="Logo">
       <h1>mieux choisir avec vosmeilleurs.com</h1>
       <p>Le site qui vous aide à choisir les meilleurs</p>
     </div>
