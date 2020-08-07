@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><![endif]-->
+    <title>Tamarillo HTML5 Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <!-- 
+Tamarillo Templatehttp://www.templatemo.com/tm-399-tamarillo-->
+    <meta name="author" content="">
+    <!-- favicons -->
+    <link rel="shortcut icon" href="images/templatemo_favicon.ico">
+    <!-- bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- fancybox CSS -->
+    <link href="css/jquery.lightbox.css" rel="stylesheet">
+    <!-- flex slider CSS -->
+    <link href="css/flexslider.css" rel="stylesheet">
+    <!-- custom styles for this template -->
+    <link href="css/templatemo_style.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script><script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-5 col-md-push-1 col-sm-6"> <a href="#" id="templatemo_logo"><img
+                src="images/Logo%20nosMeilleurs%20black%20mini.png" alt="tamarillo"></a>
+          </div>
+          <div class="col-md-3 hidden-xs"></div>
+          <div class="col-xs-3 col-xs-offset-20 visible-xs"> <a href="#" id="mobile_menu"><span
+                class="glyphicon glyphicon-align-justify"></span></a> </div>
+          <div class="col-xs-24 visible-xs" id="mobile_menu_list">
+            <ul>
+              <li><a href="#templatemo_slideshow">Home</a></li>
+              <li><a href="#templatemo_about">About</a></li>
+              <li><a href="#templatemo_services">Services</a></li>
+              <li><a href="#templatemo_blog">Blog</a></li>
+              <li><a href="#templatemo_gallery">Gallery</a></li>
+              <li><a href="#templatemo_contact">Contact</a></li>
+            </ul>
+          </div>
+          <div class="col-md-16 col-sm-18 hidden-xs" id="templatemo-nav-bar">
+            <ul class="nav navbar-right">
+              <li><a href="../index.html">Home</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!-- end of templatemo_header -->
+    <section id="templatemo_slideshow">
+      <div class="container">
+        <div id="main-slider" class="flexslider">
+          <ul class="slides">
+            <li class="row"> <img src="images/templatemo_banner_image_1.jpg" alt="slider image 1">
+              <div class="flex-caption col-md-5 col-md-push-1 hidden-xs">
+                <h3>Responsive Template</h3>
+                <p>Tamarillo is free responsive template for everyone. Feel free
+                  to use this HTML5 template for any purpose. In metus nulla,
+                  ullamcorper congue semper et, sodales eget nibh. Phasellus
+                  magna eros, rhoncus eu dictum quis, hendrerit a mauris.</p>
+              </div>
+              <div class="flex-button"><a href="#">details</a></div>
+            </li>
+            <li class="row"> <img src="images/templatemo_banner_image_2.jpg" alt="slider image 2">
+              <div class="flex-caption col-md-5 col-md-push-1 hidden-xs">
+                <h3>Mobile Ready</h3>
+                <p>Vivamus vulputate justo nec sem congue, sed molestie erat
+                  iaculis. Mauris vitae scelerisque nunc. Lorem ipsum dolor sit
+                  amet, consectetur adipiscing elit. Fusce eu urna lacus.
+                  Aliquam sed eros ut nunc commodo tempor. Cras nec tincidunt
+                  dui. Duis dolor nulla, congue et mattis in, sagittis non
+                  mauris.</p>
+              </div>
+              <div class="flex-button"><a href="#">view all</a></div>
+            </li>
+            <li class="row"> <img src="images/templatemo_banner_image_3.jpg" alt="slider image 3">
+              <div class="flex-caption col-md-5 col-md-push-1 hidden-xs">
+                <h3>Web Design</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Duis aute irure dolor in reprehenderit in voluptate velit esse
+                  cillum dolore.</p>
+              </div>
+              <div class="flex-button"><a href="#">read more</a></div>
+            </li>
+            <li class="row"> <img src="images/templatemo_banner_image_4.jpg" alt="slider image 4">
+              <div class="flex-caption col-md-5 col-md-push-1 hidden-xs">
+                <h3>HTML5 CSS3</h3>
+                <p>Class aptent taciti sociosqu ad litora torquent per conubia
+                  nostra, per inceptos himenaeos. Nunc tincidunt nisl magna, et
+                  tempor est eleifend in. Nunc imperdiet, tortor a gravida
+                  laoreet, justo justo imperdiet tellus, a lacinia augue nibh a
+                  mi.</p>
+              </div>
+              <div class="flex-button"><a href="#">more info.</a></div>
+            </li>
+          </ul>
+        </div>
+        <!-- end of main-slider --> </div>
+    </section>
+    <!-- end of templatemo_slideshow -->
+    <section id="templatemo_about">
+      <div class="container">
+        <div class="row">
+          <h1>Nos écoles</h1>
+        </div>
+        <div class="row">
+          <div class="col-md-1"></div>
+          <div class="col-md-5 col-sm-7 col-xs-24"> <br>
+          </div>
+          <div class="col-md-1"></div>
+          <div class="col-md-16"> </div>
+          <!-- end of row -->
+          <div class="clear"></div>
+          <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-5 col-sm-7 col-xs-24"> <br>
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-16"> </div>
+            <!-- end of row -->
+            <div class="clear"></div>
+            <div class="row">
+              <div class="col-md-1"></div>
+              <div class="col-md-5 col-sm-7 col-xs-24"> <br>
+              </div>
+              <div class="col-md-1"></div>
+              <div class="col-md-16"> </div>
+              <!-- end of row --> </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- end of templatemo_about -->
+    <div class="container">
+      <div class="solidline"></div>
+    </div>
+    <!-- solid line -->
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.scrollto.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.lightbox.min.js"></script>
+    <script src="js/jquery.flexslider.js"></script>
+    <script src="js/jquery.singlePageNav.min.js"></script>
+    <script src="js/templatemo_script.js"></script>
+    <!-- templatemo 399 tamarillo -->
+  </body>
+</html>
