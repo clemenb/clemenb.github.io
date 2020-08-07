@@ -44,12 +44,19 @@
           </div>
         </section>
         <section class="feature left"> <a href="#" class="image icon solid fa-mobile-alt"><img
-              src="images/pic03.jpg" alt=""></a>
+              src="images/pic09a.jpg" alt=""></a>
           <div class="content">
             <h3>The Third Thing</h3>
             <p>Vitae natoque dictum etiam semper magnis enim feugiat amet
               curabitur tempor orci penatibus. Tellus erat mauris ipsum
               fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.</p>
+          </div>
+        </section>
+        <section class="feature right"> <a href="#" class="image icon solid fa-code"><img
+              src="images/pic08.jpg" alt=""></a>
+          <div class="content">
+            <h3>The fourth thing</h3>
+            <p>text</p>
           </div>
         </section>
       </div>
@@ -66,11 +73,9 @@
     <div id="footer">
       <div class="container medium">
         <header class="major last">
-          <h2>Questions ou commentairs?</h2>
+          <h2>Questions ou commentaires?</h2>
         </header>
-        <p>Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur
-          tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam
-          vivamus.</p>
+        <p>Aidez-nous à améliorer ce site web avec vos idées.</p>
         <form method="post" action="#">
           <div class="row">
             <div class="col-6 col-12-mobilep"> <input name="name" placeholder="Name"
@@ -104,6 +109,6 @@ rows="6"></textarea> </div>
     <script src="assets/js/browser.min.js"></script>
     <script src="assets/js/breakpoints.min.js"></script>
     <script src="assets/js/util.js"></script>
-    <script src="assets/js/main.js"></script>
+    <script src="assets/js/main.js"></script> <a href="ecoles/ecoles.html">loading...</a>
   </body>
 </html>
