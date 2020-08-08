@@ -12,7 +12,8 @@
     <!-- Header -->
     <div id="header">
       <h1> <span class="far fa-thumbs-up"></span> </h1>
-      <img src="ecoles/images/Logo%20nosMeilleurs%20white.png" alt="nosMeilleurs"
+      <img src="ecoles/images/Logo%20nosMeilleurs%20white.png" alt="nosMeilleurs"
+
         title="Logo">
       <h1>mieux choisir avec vosmeilleurs.com</h1>
       <p>Le site qui vous aide à choisir les meilleurs</p>
@@ -28,20 +29,22 @@
 					<p>Tellus erat mauris ipsum fermentum<br />					etiam vivamus nunc nibh morbi.</p>					-->
       </header>
       <div class="box alt container">
-        <section class="feature left"> <a href="ecoles/ecoles.html" class="image icon solid fa-signal"
+        <section class="feature left"> <a href="ecoles/ecoles.html" class="image icon solid fa-signal"
+
             role="button"><img src="images/pic01.jpg" alt=""></a>
           <div class="content">
             <h3><a href="ecoles/ecoles.html">Nos écoles</a></h3>
-            <script type="text/javascript" src="tnt_ratings.js"></script>
             <p>Ici vous pouvez évaluer nos écoles dans les diférentes
               catégories, selon l'expérience vécue, pour aider tous nos parents
               dans la prise de <a href="rating_system_js_php/sample.html">décision</a>.</p>
             <script type="text/javascript">
-              rating_id = School_text_O1;
-            </script>
-            <script type="text/javascript" src="tnt_ratings.js"></script> </div>
+rating_id = 426;
+</script>
+    <script type="text/javascript" src="tnt_ratings.js"></script>
+          </div>
         </section>
-        <section class="feature right"> <a href="#" class="image icon solid fa-code"><img
+        <section class="feature right"> <a href="#" class="image icon solid fa-code"><img
+
               src="images/pic02.jpg" alt=""></a>
           <div class="content">
             <h3>Nos universités</h3>
@@ -49,7 +52,8 @@
               diférentes catégories.</p>
           </div>
         </section>
-        <section class="feature left"> <a href="#" class="image icon solid fa-mobile-alt"><img
+        <section class="feature left"> <a href="#" class="image icon solid fa-mobile-alt"><img
+
               src="images/pic09a.jpg" alt=""></a>
           <div class="content">
             <h3>The Third Thing</h3>
@@ -58,7 +62,8 @@
               fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.</p>
           </div>
         </section>
-        <section class="feature right"> <a href="#" class="image icon solid fa-code"><img
+        <section class="feature right"> <a href="#" class="image icon solid fa-code"><img
+
               src="images/pic08.jpg" alt=""></a>
           <div class="content">
             <h3>The fourth thing</h3>
@@ -84,11 +89,14 @@
         <p>Aidez-nous à améliorer ce site web avec vos idées.</p>
         <form method="post" action="https://formspree.io/mgendglo">
           <div class="row">
-            <div class="col-6 col-12-mobilep"> <input name="name" placeholder="Name"
+            <div class="col-6 col-12-mobilep"> <input name="name" placeholder="Name"
+
                 type="text"> </div>
-            <div class="col-6 col-12-mobilep"> <input name="email" placeholder="Email"
+            <div class="col-6 col-12-mobilep"> <input name="email" placeholder="Email"
+
                 type="email"> </div>
-            <div class="col-12"> <textarea name="message" placeholder="Message"
+            <div class="col-12"> <textarea name="message" placeholder="Message"
+
 rows="6"></textarea> </div>
             <div class="col-12">
               <ul class="actions special">
