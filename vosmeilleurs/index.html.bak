@@ -36,20 +36,19 @@
             <h3><a href="ecoles/ecoles.html">Nos écoles</a></h3>
             <p>Ici vous pouvez évaluer nos écoles dans les diférentes
               catégories, selon l'expérience vécue, pour aider tous nos parents
-              dans la prise de <a href="rating_system_js_php/sample.html">décision</a>.</p>
-          </div>div>
+              dans la prise de <a href="rating_system_js_php/sample.html">décision</a>.
+          </div>
         </section>
-        <script type="text/javascript">
-rating_id = 426;
-</script>
-    <script type="text/javascript" src="tnt_ratings.js"></script>
         <section class="feature right"> <a href="#" class="image icon solid fa-code"><img
 
               src="images/pic02.jpg" alt=""></a>
           <div class="content">
             <h3>Nos universités</h3>
             <p>Etudiants? Ici vous pouvez évaluer nos universités dans les
-              diférentes catégories.</p>
+              diférentes catégories.
+              <script type="text/javascript">
+rating_id = 'index_2';
+</script> <script type="text/javascript" src="tnt_ratings.js"></script> </p>
           </div>
         </section>
         <section class="feature left"> <a href="#" class="image icon solid fa-mobile-alt"><img
@@ -59,7 +58,10 @@ rating_id = 426;
             <h3>The Third Thing</h3>
             <p>Vitae natoque dictum etiam semper magnis enim feugiat amet
               curabitur tempor orci penatibus. Tellus erat mauris ipsum
-              fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.</p>
+              fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.
+              <script type="text/javascript">
+rating_id = 'index_3';
+</script> <script type="text/javascript" src="tnt_ratings.js"></script> </p>
           </div>
         </section>
         <section class="feature right"> <a href="#" class="image icon solid fa-code"><img
@@ -67,7 +69,10 @@ rating_id = 426;
               src="images/pic08.jpg" alt=""></a>
           <div class="content">
             <h3>The fourth thing</h3>
-            <p>text</p>
+            <p>text
+              <script type="text/javascript">
+rating_id = 'index_1';
+</script> <script type="text/javascript" src="tnt_ratings.js"></script> </p>
           </div>
         </section>
       </div>
